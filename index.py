@@ -19,3 +19,10 @@ mi_var = 'chancito'
 a, b, c, = 'lala', 'lele', 'lili'
 
 print(a, b, c)
+
+#para concatenacion
+
+inicio ='Hola' 
+final ='mundo'
+
+print(inicio,final)
