@@ -9,3 +9,13 @@ x = 5
 y = 'chanchito feliz'
 
 print(x, y)
+
+correo = 'chanchito@feliz.com'
+
+print(correo)
+
+mi_var = 'chancito'
+
+a, b, c, = 'lala', 'lele', 'lili'
+
+print(a, b, c)
