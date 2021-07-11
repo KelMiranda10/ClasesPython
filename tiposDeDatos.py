@@ -7,9 +7,11 @@ complejo = 1j
 ############################################################
 ############################################################
 #ahora veremos una lista 
-lista = [1, 2, 3]
+lista = [3, 3, 3]
 #metodo para agregar algo a la lista
 #lista.clear()
 lista2=lista.copy()
 lista.append(5)
-print(lista,lista2)
+print(lista,lista2.count(3))
+
+print(len(lista), len(lista2))
